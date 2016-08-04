@@ -1,0 +1,29 @@
+_repo: Martin-Pippin-in-the-Apple-Orchard_2032
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farjeon, Eleanor
+    birthdate: 1881
+    deathdate: 1965
+    gutenberg_agent_id: '794'
+    url: http://www.gutenberg.org/2009/agents/794
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_Farjeon
+description: A clever wandering minstrel rescues an imprisoned young lady when she
+  charms the seven man-hating damsels guarding her by telling them six fairy tales,
+  one by one.
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Minstrels -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Martin Pippin in the Apple Orchard
+url: http://www.gutenberg.org/ebooks/2032
